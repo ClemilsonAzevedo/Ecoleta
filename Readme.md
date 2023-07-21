@@ -1,4 +1,4 @@
-<h1 align="center"> Ecoleta </h1>
+<h1 align="center"> Galaxies </h1>
 
 <p align="center">
 Projecto exclusivo, para o aprendizado de algumas tecnologias WEB. <br/>
@@ -19,7 +19,7 @@ Projecto exclusivo, para o aprendizado de algumas tecnologias WEB. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Ecoleta" src=".github/Capa.png" width="100%">
+  <img alt="projeto Galaxies" src="./.github" width="100%">
 </p>
 
 ## 🚀 Tecnologias
