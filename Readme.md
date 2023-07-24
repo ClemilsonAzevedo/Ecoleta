@@ -19,7 +19,7 @@ Projecto exclusivo, para o aprendizado de algumas tecnologias WEB. <br/>
 <br>
 
 <p align="center">
-  <img alt="PROJECTO NLW#1 ECOLETA" src="[.github/Capa.png](https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?type=design&node-id=70-0&mode=design&t=a6lEBJet3jPqaZHo-4)" width="100%">
+  <img alt="PROJECTO NLW#1 ECOLETA" src="https://raw.githubusercontent.com/ClemilsonAzevedo/Ecoleta/main/.github/Capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
